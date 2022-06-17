@@ -50,3 +50,9 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+### Run storybook showcase
+
+```sh
+npm run storybook
+```
